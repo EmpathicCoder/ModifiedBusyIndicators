@@ -1,3 +1,7 @@
+# Modified BusyIndicators
+Repo cloned https://github.com/moh3ngolshani/BusyIndicator
+Next is the readme of the cloned repo version
+
 # BusyIndicator
 BusyIndicator for Windows Presentation Foundation (WPF)
 
