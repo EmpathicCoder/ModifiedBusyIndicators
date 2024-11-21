@@ -3,21 +3,21 @@
     <OutputType>Library</OutputType>
     <UseWPF>true</UseWPF>
     <TargetFrameworks>net46;net6.0-windows</TargetFrameworks>
-	  <Version>2.1.1.2</Version>
+	  <Version>2.1.1.3</Version>
 	  <Authors>Mohsen Golshani, Trexie K. Arandilla</Authors>
 	  <Company>Mohsen Golshani, INNOVSIS</Company>
     <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
     <ApplicationIcon>Icon.ico</ApplicationIcon>
     <!--<PackageIcon>Icon.ico</PackageIcon>-->
-    <RepositoryUrl>https://github.com/moh3ngolshani/BusyIndicator</RepositoryUrl>
+    <RepositoryUrl>https://github.com/EmpathicCoder/ModifiedBusyIndicators</RepositoryUrl>
     <PackageTags>BusyIndicator Loader Spinner LoadingIndicator</PackageTags>
     <PackageReleaseNotes>Added "IsBusyAtStartup" property to allow the user to set the default indicator's state on startup.</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/moh3ngolshani/BusyIndicator</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/EmpathicCoder/ModifiedBusyIndicators</PackageProjectUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <AssemblyVersion>2.1.1.0</AssemblyVersion>
-    <FileVersion>2.1.1.0</FileVersion>
+    <AssemblyVersion>2.1.1.3</AssemblyVersion>
+    <FileVersion>2.1.1.3</FileVersion>
     <PackageIcon>Icon.png</PackageIcon>
     <PackageReadmeFile></PackageReadmeFile>
     <Description>Loading indicator for WPF applications.</Description>
